@@ -1,0 +1,3 @@
+Stage,Rows,Columns,Missing_Cells,Duplicate_Rows
+Before cleaning,13,6,5,1
+After cleaning,12,7,1,0

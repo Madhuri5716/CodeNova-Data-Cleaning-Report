@@ -1,0 +1,13 @@
+Customer_ID,Age,City,Orders,Spend_INR,Signup_Date,Spend_Outlier_Flag
+C001,22.0,Hyderabad,3.0,1200,2025-01-02,False
+C002,31.0,Pune,5.0,2500,2025-02-10,False
+C003,32.5,Delhi,2.0,900,2025-02-15,False
+C004,45.0,Hyderabad,8.0,7200,2025-03-01,False
+C005,32.5,Mumbai,1.0,300,2025-03-04,False
+C006,29.0,Pune,3.0,1800,2025-04-12,False
+C007,34.0,Delhi,4.0,4100,2025-04-20,False
+C008,32.5,Chennai,2.0,600,2025-05-01,False
+C009,27.0,Mumbai,3.0,1500,2025-05-14,False
+C010,32.5,Unknown,6.0,5600,2025-06-11,False
+C011,41.0,Chennai,7.0,9800,,True
+C012,38.0,Delhi,2.0,1100,2025-07-07,False
